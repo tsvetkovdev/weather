@@ -1,1 +1,0 @@
-React application that allows you to find out weather data in different cities of our planet. The application was written using technologies such as React-router, React-hooks, material-ui, and react-hook-form. The application was specially written without using redux technology for educational purposes, to teach the use of react-hooks and localStorage.
